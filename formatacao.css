@@ -1,0 +1,30 @@
+#menu{
+    background-color: #000000;
+}
+
+img{
+    width: 350px;
+    border: 2px solid #000000;
+    cursor: hand;
+    position: absolute;
+    top: 180px;
+    display: block;
+    right: 120px;
+    margin: 20px;
+    text-decoration: none;
+}
+
+body{
+    background-color: #eeeeee;
+}
+.titulo{
+    padding-top: 50px;
+    color: blue;
+    border-bottom: 1px solid black;
+}
+
+.textos{
+    padding: 20px;
+    font-family: arial;
+    font-size: 15pt;
+}
